@@ -1,0 +1,225 @@
+{
+ "key": "4aabc79e",
+ "stars": 19,
+ "contributions": 164,
+ "repos": 6,
+ "followers": 7,
+ "languages": [
+  [
+   "Python",
+   81388
+  ],
+  [
+   "SCSS",
+   63670
+  ],
+  [
+   "Rust",
+   3188
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 8,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "dozorniy",
+   "url": "https://github.com/cnvuls/dozorniy",
+   "text": "Система удаленного мониторинга (RMM) для учебных компьютерных классов. Разработана для образовательных целей с использованием Python и Pydantic. Некоммерческий проект.",
+   "fork": false,
+   "stars": 13,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CatppuccinTheme",
+   "url": "https://github.com/cnvuls/CatppuccinTheme",
+   "text": "Catppuccin Theme and Preference Pack for FreeCAD",
+   "fork": false,
+   "stars": 5,
+   "language": "SCSS",
+   "topics": [
+    "addon",
+    "catppuccin",
+    "catppuccin-mocha",
+    "catppuccin-theme",
+    "freecad",
+    "pack",
+    "preference",
+    "theme"
+   ]
+  },
+  {
+   "name": "strs",
+   "url": "https://github.com/cnvuls/strs",
+   "text": "A galaxy screensaver",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "dozorniy",
+   "url": "https://github.com/cnvuls/dozorniy",
+   "text": "Система удаленного мониторинга (RMM) для учебных компьютерных классов. Разработана для образовательных целей с использованием Python и Pydantic. Некоммерческий проект.",
+   "fork": false,
+   "stars": 13,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CatppuccinTheme",
+   "url": "https://github.com/cnvuls/CatppuccinTheme",
+   "text": "Catppuccin Theme and Preference Pack for FreeCAD",
+   "fork": false,
+   "stars": 5,
+   "language": "SCSS",
+   "topics": [
+    "addon",
+    "catppuccin",
+    "catppuccin-mocha",
+    "catppuccin-theme",
+    "freecad",
+    "pack",
+    "preference",
+    "theme"
+   ]
+  },
+  {
+   "name": "catppuccin-startpage",
+   "url": "https://github.com/cnvuls/catppuccin-startpage",
+   "text": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+   "fork": true,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "iNiR",
+   "url": "https://github.com/cnvuls/iNiR",
+   "text": "A Niri shell illogical-impulse based - with some modifications..",
+   "fork": true,
+   "stars": 2,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "strs",
+   "url": "https://github.com/cnvuls/strs",
+   "text": "A galaxy screensaver",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "cnvuls",
+   "url": "https://github.com/cnvuls/cnvuls",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
