@@ -50,15 +50,11 @@
     "items": [
       {
         "icon": "person",
-        "label": "Full-stack programmer (still an unemployed schoolboy)"
+        "label": "High school student & Systems / Backend developer"
       },
       {
         "icon": "palette",
         "label": "I love material design and gruvbox"
-      },
-      {
-        "icon": "favorite",
-        "label": "I try to develop and make high-load services. And also work out the architecture of projects."
       }
     ]
   },
