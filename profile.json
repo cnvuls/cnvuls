@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "login": "cnvuls",
+  "seed": "#7CC7AC",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "wave",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Crimean"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
+      },
+      {
+        "icon": "brand:rust",
+        "label": "Rust"
+      },
+      {
+        "icon": "star",
+        "label": "Fullstack"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Full-stack programmer (still an unemployed schoolboy)"
+      },
+      {
+        "icon": "palette",
+        "label": "I love material design and gruvbox"
+      },
+      {
+        "icon": "favorite",
+        "label": "I try to develop and make high-load services. And also work out the architecture of projects."
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:arduino",
+            "label": "Arduino"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:neovim",
+            "label": "Neovim"
+          },
+          {
+            "icon": "brand:fishshell",
+            "label": "fish"
+          },
+          {
+            "icon": "brand:niri",
+            "label": "niri"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/convlsv"
+      },
+      {
+        "icon": "planet",
+        "url": "https://cnvls.neocities.org/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
