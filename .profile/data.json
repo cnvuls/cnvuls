@@ -1,5 +1,5 @@
 {
- "key": "350b4650",
+ "key": "db7ace51",
  "stars": 20,
  "contributions": 166,
  "repos": 6,
@@ -97,9 +97,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
