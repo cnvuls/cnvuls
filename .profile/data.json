@@ -1,5 +1,5 @@
 {
- "key": "cec96654",
+ "key": "1c5f166a",
  "stars": 20,
  "contributions": 166,
  "repos": 6,
@@ -117,9 +117,13 @@
    {
     "c": 0,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
